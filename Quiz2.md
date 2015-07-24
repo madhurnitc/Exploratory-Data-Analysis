@@ -19,7 +19,9 @@ xyplot(weight ~ Time | Diet, BodyWeight)
 Annotation of plots in any plotting system involves adding points, lines, or text to the plot, in addition to customizing axis labels or adding titles. Different plotting systems have different sets of functions for annotating plots in this way. Which of the following functions can be used to annotate the panels in a multi-panel lattice plot?
 
 ### Answer 
-```panel.lmline()```
+```R
+panel.lmline()
+```
 
 ### Question 4  
 The following code does NOT result in a plot appearing on the screen device.
