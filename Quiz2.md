@@ -21,7 +21,7 @@ Annotation of plots in any plotting system involves adding points, lines, or tex
 ### Answer 
 ```panel.lmline()```
 
-### Question 4
+### Question 4  
 The following code does NOT result in a plot appearing on the screen device.
 ```R
 library(lattice)
